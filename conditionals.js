@@ -41,7 +41,7 @@ if(isCitizen && age>18){
 
 // Example 5
 if(temperature < -40 || temperature > 40){
-  console.log("Maybe going outside isn't such a great idea...");
+  console.log(" Maybe going outside isn't such a great idea...");
 }
 
 // Example 6
